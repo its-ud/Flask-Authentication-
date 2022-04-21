@@ -7,7 +7,7 @@ Login SignUp by user in Flask
 3. After Authentication (Enters to the Dash Board)
 
 ## To Run The App
-### etting up the environment
+### setting up the environment
 ```
 pip install flask
 ```
