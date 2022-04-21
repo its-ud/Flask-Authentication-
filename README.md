@@ -7,11 +7,13 @@ Login SignUp by user in Flask
 3. After Authentication (Enters to the Dash Board)
 
 ## To Run The App
+### etting up the environment
+```pip install flask
 ```
-pip install flask
+### install all nessesary modues in the import list by pip
 
-python3 app.py
-
+### then enter the command
+```python3 app.py
 ```
 
 ### Encryption of Password is done using -- Bcrypt hashing
