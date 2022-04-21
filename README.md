@@ -4,7 +4,7 @@ Login SignUp by user in Flask
 ## User Functions
 1. Register (Sign Up)
 2. Login
-3. After Authentication (Enters to the Dash Board)
+3. After Authentication (Enters to the Dashboard)
 
 ## To Run The App
 ### setting up the environment
