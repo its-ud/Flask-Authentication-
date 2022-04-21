@@ -2,9 +2,9 @@
 Login SignUp by user in Flask
 
 ## User Functions
-..* Register (Sign Up)
-..* Login
-..* After Authentication (Enters to the Dash Board)
+1. Register (Sign Up)
+2. Login
+3. After Authentication (Enters to the Dash Board)
 
 ## To Run The App
-..* enter command Python3 app.py in the terminal
+1. enter command Python3 app.py in the terminal
