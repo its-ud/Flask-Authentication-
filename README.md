@@ -14,13 +14,7 @@ pip install flask
 
 ### install all nessesary modues in the import list by pip
 ```
-from flask import Flask, render_template, url_for, redirect, flash
-from flask_sqlalchemy import SQLAlchemy
-from flask_login import UserMixin, login_user, LoginManager, login_required, logout_user, current_user
-from flask_wtf import FlaskForm
-from wtforms import StringField, PasswordField, SubmitField
-from wtforms.validators import InputRequired, Length, ValidationError
-from flask_bcrypt import Bcrypt
+ pip install flask flask_sqlalchemy flask_login flask_bcrypt flask_wtf wtforms email_validator
 ```
 
 ### then enter the command
