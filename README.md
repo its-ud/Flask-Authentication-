@@ -8,12 +8,14 @@ Login SignUp by user in Flask
 
 ## To Run The App
 ### etting up the environment
-```pip install flask
+```
+pip install flask
 ```
 ### install all nessesary modues in the import list by pip
 
 ### then enter the command
-```python3 app.py
+```
+python3 app.py
 ```
 
 ### Encryption of Password is done using -- Bcrypt hashing
