@@ -7,4 +7,4 @@ Login SignUp by user in Flask
 3. After Authentication (Enters to the Dash Board)
 
 ## To Run The App
-1. enter command Python3 app.py in the terminal
+1. enter command python3 app.py in the terminal
